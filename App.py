@@ -1,5 +1,2 @@
-a = """Lorem ipsum dolor sit amet,
-consectetur adipiscing elit,
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua."""
-print(a)
+thislist = ["apple", "banana", "cherry"]
+print(len(thislist))
