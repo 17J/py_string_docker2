@@ -1,2 +1,2 @@
-thislist = ["apple", "banana", "cherry"]
-print(len(thislist))
+newlist = ["apple", "banana", "cherry","mango","pineapple", "custard apple"]
+print(len(newlist))
